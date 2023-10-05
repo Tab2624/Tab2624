@@ -6,7 +6,15 @@ I'm currently a student studying Full stack Software Development at Coding Dojo.
 
 Skills: HTML, CSS, Bootstrap, JS,  Python, Flask, MySQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on building up my software skills 
+- 🌱 I’m currently learning Mern 
+- 💬 Ask me about anything. Feel free to reach out.  
+- 📫 How to reach me: Tabodansky@gmail.com 
+
+
+
+
+
 
 
 
