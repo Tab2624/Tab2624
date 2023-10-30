@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tim
 
-###Software Dev in training
+### Software Dev in training
 
 I'm currently a student studying Full stack Software Development at Coding Dojo.  
 
