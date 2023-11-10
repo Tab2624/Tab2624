@@ -4,7 +4,6 @@
 
 I'm currently a student studying Full stack Software Development at Coding Dojo.  
 
-Skills: HTML, CSS, Bootstrap, JS,  Python, Flask, MySQL, React, Express, Pro Googler
 
 - 🔭 I’m currently working on building up my software skills 
 - 🌱 I’m currently learning the Mern stack 
